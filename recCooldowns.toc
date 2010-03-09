@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: recCooldowns
+## Notes: Cooldowns
+## Author: Recluse
+## Dependencies: recMedia, recLib
+## Version: $Id: recCooldowns.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+
+core.lua
